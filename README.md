@@ -6,22 +6,22 @@ For all visualizations, users can drag the date slider from one point to another
 ### Calls by Location
 View relative call volume by latitude and longitude across the Bronx, Manhattan, Brooklyn, Staten Island, and Queens. 
 
-![](Dashboard Videos/mapgif.gif)
+![](Dashboard/mapgif.gif)
 
 ### Calls by Category
 Call volume breakdown by borough and category, where category options include agency name (NYPD, Dept. of Housing, Dept. of Transportation, etc.), complaint type, zip code, status (resolved, closed, unresolved, etc.), location type (apartment, commercial, school, etc.) and city. 
 
-![](Dashboard Videos/categorygif.gif)
+![](Dashboard/categorygif.gif)
 
 ### Calls by Time
 A heatmap displaying call volume broken down by day of the week and time of the day. 
 
-![](Dashboard Videos/timegif.gif)
+![](Dashboard/timegif.gif)
 
 ### Calls by Type
 A heatmap displaying call volume by complaint description / call type. 
 
-![](Dashboard Videos/typegif.gif)
+![](Dashboard/typegif.gif)
 
 ## Setup
 To clone and run this application, you'll need the following:
