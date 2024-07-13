@@ -1,4 +1,0 @@
-pygsheets
-sodapy
-bokeh
-fuzzywuzzy
